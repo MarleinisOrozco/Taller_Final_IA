@@ -25,7 +25,7 @@ Para ejecutar esta aplicación localmente en tu máquina:
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/Candresh9/Proyecto_Final_Inteligencia_Artificial.git
+   git clone https://github.com/MarleinisOrozco/Taller_Final_IA.git
    ```
 2. Instala las dependencias necesarias:
    ```bash
